@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "rails", "~> 7.2.0"
 
 gem "bootsnap", require: false
+gem "haml-rails", "~> 2.0"
 gem "importmap-rails"
 gem "jbuilder"
 gem "puma", ">= 5.0"
